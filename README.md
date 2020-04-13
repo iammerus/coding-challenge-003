@@ -1,4 +1,4 @@
-# Coding Challenge Day 2
+# Coding Challenge Day 3
 
 One challenge, everyday for 100 days
 
