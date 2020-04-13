@@ -5,7 +5,10 @@ import (
 )
 
 func TestSolution(t *testing.T) {
-	tests := map[uint64]string{}
+	tests := map[string]string{
+		"test": "grfg",
+		"Test": "Grfg",
+	}
 
 	for key, element := range tests {
 		output := ""
