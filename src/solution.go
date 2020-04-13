@@ -39,5 +39,5 @@ func rotate(character string, number int) string {
 		index = total
 	}
 
-	return alphabet[index]
+	return string(alphabet[index])
 }
